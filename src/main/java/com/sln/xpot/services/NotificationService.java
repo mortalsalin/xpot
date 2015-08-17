@@ -81,7 +81,7 @@ public class NotificationService {
 		final String notificationData = new JSONArray().put(jsonData).toString();
 
 		i.putExtra("messageType", "PEBBLE_ALERT");
-		i.putExtra("sender", "Conversations"); /* XXX: Shouldn't be hardcoded, e.g., AbstractGenerator.APP_NAME); */
+		i.putExtra("sender", "xpot"); /* XXX: Shouldn't be hardcoded, e.g., AbstractGenerator.APP_NAME); */
 		i.putExtra("notificationData", notificationData);
 		// notify Pebble App
 		i.setPackage("com.getpebble.android");

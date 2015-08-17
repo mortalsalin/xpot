@@ -34,7 +34,7 @@ public abstract class AbstractGenerator {
 			"urn:xmpp:receipts"
 	};
 	private String mVersion = null;
-	public final String IDENTITY_NAME = "Conversations";
+	public final String IDENTITY_NAME = "xpot";
 	public final String IDENTITY_TYPE = "phone";
 
 	private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'", Locale.US);
