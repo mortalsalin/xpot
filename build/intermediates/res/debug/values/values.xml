@@ -175,7 +175,7 @@
     <string name="advanced_mode">Advanced mode</string>
     <string name="also_end_conversation">End this conversations afterwards</string>
     <string name="apk">Android App</string>
-    <string name="app_name" translatable="false">Conversations</string>
+    <string name="app_name" translatable="false">xpot</string>
     <string name="are_you_sure_verify_fingerprint">Are you sure that you want to verify your contacts OTR fingerprint?</string>
     <string name="ask_for_presence_updates">Ask for presence updates</string>
     <string name="ask_question">Ask question</string>
