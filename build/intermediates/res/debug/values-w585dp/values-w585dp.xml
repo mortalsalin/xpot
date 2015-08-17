@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/ProjetosAndroid/xpot/src/main/res/values-w585dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">32dp</dimen>
+    <dimen name="conversations_overview_width">416dp</dimen>
+</resources>

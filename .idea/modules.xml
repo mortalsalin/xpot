@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libs/MemorizingTrustManager/MemorizingTrustManager.iml" filepath="$PROJECT_DIR$/libs/MemorizingTrustManager/MemorizingTrustManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/libs.iml" filepath="$PROJECT_DIR$/libs/libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/openpgp-api-lib/openpgp-api-lib.iml" filepath="$PROJECT_DIR$/libs/openpgp-api-lib/openpgp-api-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpot.iml" filepath="$PROJECT_DIR$/xpot.iml" />
+    </modules>
+  </component>
+</project>
+

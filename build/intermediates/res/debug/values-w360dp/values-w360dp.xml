@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/ProjetosAndroid/xpot/src/main/res/values-w360dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="conversations_overview_width">304dp</dimen>
+</resources>
