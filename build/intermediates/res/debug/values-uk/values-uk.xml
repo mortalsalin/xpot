@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- From: file:/C:/ProjetosAndroid/xpot/build/intermediates/exploded-aar/xpot.libs/openpgp-api-lib/unspecified/res/values-uk/values-uk.xml -->
-    <eat-comment/>
-    <string name="openpgp_install_openkeychain_via">Встановити OpenKeychain через %s</string>
-    <string name="openpgp_list_preference_none">Жоден</string>
-</resources>
